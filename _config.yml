@@ -105,4 +105,4 @@ theme: hexo-theme-yilia
 deploy:
   type: git
   repo: https://github.com/Grown1994Tree/Grown1994Tree.github.io
-  brance: master
+  brance: myblog
